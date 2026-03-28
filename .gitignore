@@ -1,0 +1,2 @@
+# add git data/row to git ignore because sequrity and privacy essue
+src/data/row
