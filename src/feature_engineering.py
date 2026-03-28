@@ -25,5 +25,4 @@ def all_images(images_directory="src/data/raw"):
 
     X = np.array(X)
     y = np.array(y)
-
     return X, y
